@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="images/banner.png" alt="AI Exposure Predictor Banner" width="100%">
+</p>
+
+<h1 align="center">AI Exposure Predictor</h1>
+
+<p align="center">
+Predicting Task-Level AI Automation Risk using Machine Learning & NLP
+</p>
+
+
+
 <div align="center">
 
 # AI Exposure Predictor
